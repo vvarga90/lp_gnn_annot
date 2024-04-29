@@ -1,8 +1,3 @@
-# lp_gnn_annot
+Software repository for paper "Solving interactive video object segmentation with label-propagating neural networks". The paper was accepted at IJCNN 2024.
 
-Software repository for paper "Solving interactive video object segmentation with label-propagating neural networks". Paper is under review at Journal of Visual Communication and Image Representation, and is not available publicly at the moment.
-
-Link to our modification of the SSN method ("Superpixel Sampling Networks" by Jampani et al.) that is featured in the paper:
-https://github.com/vvarga90/ssn-pytorch-optflow.git
-
-Full code is coming soon.
+The code was available for the reviewers in an anonymous repository during the paper review phase. The code will be released publicly here, soon.
